@@ -53,22 +53,4 @@
 - Optimización de código y control de versiones
 
 ---
-
-### 📈 Estadísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NeptualPG&show_icons=true&theme=tokyonight&border_radius=10&hide_title=true" width="47%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeptualPG&layout=compact&theme=tokyonight&border_radius=10" width="47%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=NeptualPG&theme=tokyonight&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" width="60%">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NeptualPG&theme=tokyonight" width="95%">
-</p>
-
----
-
 > “El código no miente, los comentarios a veces sí.”
