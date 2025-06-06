@@ -53,4 +53,4 @@
 - Optimización de código y control de versiones
 
 ---
-> “El código no miente, los comentarios a veces sí.”
+> “El código no miente.”
