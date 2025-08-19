@@ -1,7 +1,4 @@
 <h1 align="center">NeptualPG</h1>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Neptual/Neptual/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
 <p align="center"><strong>Desarrollador enfocado en lógica, estructura y resultados.</strong></p>
 
 ---
