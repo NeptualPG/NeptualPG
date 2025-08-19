@@ -1,11 +1,14 @@
 <h1 align="center">NeptualPG</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Neptual/Neptual/main/github-contribution-grid-snake.svg" alt="snake">
+</p>
 <p align="center"><strong>Desarrollador enfocado en lógica, estructura y resultados.</strong></p>
 
 ---
 
 ### 💡 Sobre Mí
 
-Soy un desarrollador apasionado por transformar ideas en soluciones funcionales y eficientes. Mi enfoque se centra en el pensamiento lógico, la arquitectura de software robusta y la creación de código limpio y escalable. Disfruto trabajando tanto en el desarrollo de aplicaciones multiplataforma como en la automatización de procesos.
+Soy un desarrollador apasionado por transformar ideas en soluciones funcionales y eficientes. Mi enfoque se centra en el pensamiento lógico, la arquitectura de software robusta y la creación de código limpio y escalable. Disfruto trabajando tanto en el desarrollo full-stack como en la automatización de procesos.
 
 ---
 
@@ -13,7 +16,7 @@ Soy un desarrollador apasionado por transformar ideas en soluciones funcionales 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,java,javascript,flutter,firebase,mysql,git,arduino,vscode" />
+    <img src="https://skillicons.dev/icons?i=python,django,java,javascript,html,css,react,flutter,firebase,mysql,git,arduino,vscode" />
   </a>
 </p>
 
@@ -21,9 +24,9 @@ Soy un desarrollador apasionado por transformar ideas en soluciones funcionales 
 
 ### 🌱 Actualmente Aprendiendo
 
-- **Backend Moderno:** Profundizando en Node.js y explorando la creación de APIs robustas.
+- **Backend Moderno:** Profundizando en la creación de APIs robustas con Django y Node.js.
 - **Arquitectura Limpia:** Aplicando patrones de diseño para un código más mantenible.
-- **Interfaces de Usuario:** Mejorando la experiencia de usuario en aplicaciones Flutter.
+- **Desarrollo Frontend:** Perfeccionando interfaces de usuario con React y Flutter.
 - **Optimización y CI/CD:** Implementando pipelines para despliegues automatizados.
 
 ---
@@ -31,8 +34,8 @@ Soy un desarrollador apasionado por transformar ideas en soluciones funcionales 
 ### 🔥 Mis Proyectos Actuales
 
 - **📱 Apps en Flutter:** Creación de aplicaciones móviles con integración nativa y servicios de Firebase.
-- **🐍 Scripts de Automatización:** Desarrollo de herramientas en Python para web scraping y análisis de datos.
-- **💾 Gestión de Datos:** Diseño y optimización de bases de datos relacionales con SQL.
+- **🐍 Backend y APIs:** Desarrollo de servicios RESTful con Python, Django y FastAPI.
+- **🌐 Aplicaciones Web:** Construcción de interfaces dinámicas con React.
 - **🔌 Integración Hardware-Software:** Proyectos que combinan la electrónica de Arduino con software a medida.
 
 ---
