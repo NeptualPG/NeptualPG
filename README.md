@@ -12,7 +12,7 @@ I am a Backend Developer passionate about building robust, scalable, and maintai
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,fastapi,linux,postgres,mongodb,rabbitmq,grafana,anaconda" />
+    <img src="https://skillicons.dev/icons?i=python,django,fastapi,linux,postgres,mongodb,rabbitmq,grafana,anaconda,git" />
   </a>
 </p>
 
@@ -21,7 +21,7 @@ I am a Backend Developer passionate about building robust, scalable, and maintai
 *   **Messaging:** RabbitMQ
 *   **Observability:** Grafana
 *   **Databases:** PostgreSQL, MongoDB
-*   **Environment & Tooling:** Linux, Anaconda
+*   **Environment & Tooling:** Linux, Anaconda, **Git**
 
 ### 🌱 Currently Improving
 
@@ -43,3 +43,5 @@ I am a Backend Developer passionate about building robust, scalable, and maintai
 <p align="center">
   <i>"Grant me the serenity to accept the code I cannot change, the courage to refactor the code I can, and the wisdom to know the difference."</i>
 </p>
+
+<br>
