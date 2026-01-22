@@ -12,7 +12,7 @@ I am a Backend Developer passionate about building robust, scalable, and maintai
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,fastapi,linux,postgres,mongodb,rabbitmq,grafana,anaconda,git" />
+    <img src="https://skillicons.dev/icons?i=python,django,fastapi,linux,postgres,mysql,mongodb,rabbitmq,grafana,anaconda,git" />
   </a>
 </p>
 
@@ -20,8 +20,8 @@ I am a Backend Developer passionate about building robust, scalable, and maintai
 *   **Automation:** Python (RPA with Create)
 *   **Messaging:** RabbitMQ
 *   **Observability:** Grafana
-*   **Databases:** PostgreSQL, MongoDB
-*   **Environment & Tooling:** Linux, Anaconda, **Git**
+*   **Databases:** **SQL (PostgreSQL, MySQL)**, MongoDB
+*   **Environment & Tooling:** Linux, Anaconda, Git
 
 ### 🌱 Currently Improving
 
@@ -35,7 +35,7 @@ I am a Backend Developer passionate about building robust, scalable, and maintai
 - ⚡ **High-Performance APIs:** Developing RESTful services with FastAPI and Django.
 - 📩 **Async Processing:** Integrating RabbitMQ queues for heavy tasks and pipelines.
 - 📊 **Monitoring & Metrics:** Building traceability and performance dashboards in Grafana.
-- 🗄️ **Data & Persistence:** Designing models and optimizing queries in PostgreSQL + MongoDB.
+- 🗄️ **Data & Persistence:** Designing models and optimizing complex **SQL queries** in PostgreSQL + MongoDB.
 - 🤖 **RPA Automation:** Creating bots and automated flows to accelerate operations.
 
 ---
@@ -43,5 +43,3 @@ I am a Backend Developer passionate about building robust, scalable, and maintai
 <p align="center">
   <i>"Grant me the serenity to accept the code I cannot change, the courage to refactor the code I can, and the wisdom to know the difference."</i>
 </p>
-
-<br>
