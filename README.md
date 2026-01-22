@@ -43,7 +43,3 @@ I am a Backend Developer passionate about building robust, scalable, and maintai
 <p align="center">
   <i>"Grant me the serenity to accept the code I cannot change, the courage to refactor the code I can, and the wisdom to know the difference."</i>
 </p>
-
-<p align="right">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeptualPG&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-</p>
