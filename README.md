@@ -4,10 +4,6 @@
   <strong>Backend Developer focused on Performance, Observability, and Automation.</strong>
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=NeptualPG&show_icons=true&theme=tokyonight&hide_border=true" alt="NeptualPG's GitHub stats" />
-</p>
-
 ### 💡 About Me
 
 I am a Backend Developer passionate about building robust, scalable, and maintainable services. I focus on designing clean architectures, efficient APIs, and automated processes that drive business operations. I enjoy working with distributed systems, messaging, and monitoring to ensure everything stays stable in production.
