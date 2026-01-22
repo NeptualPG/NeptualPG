@@ -1,43 +1,53 @@
-<h1 align="center">NeptualPG</h1>
-
-<p align="center"><strong>Desarrollador enfocado en lógica, estructura y resultados.</strong></p>
-
----
-
-### 💡 Sobre Mí
-
-Soy un desarrollador apasionado por transformar ideas en soluciones funcionales y eficientes. Mi enfoque se centra en el pensamiento lógico, la arquitectura de software robusta y la creación de código limpio y escalable. Disfruto trabajando tanto en el desarrollo full-stack como en la automatización de procesos.
-
----
-
-### 🚀 Tecnologías y Herramientas
+<h1 align="center">Hi there, I'm NeptualPG 👋</h1>
 
 <p align="center">
+  <strong>Backend Developer focused on Performance, Observability, and Automation.</strong>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=NeptualPG&show_icons=true&theme=tokyonight&hide_border=true" alt="NeptualPG's GitHub stats" />
+</p>
+
+### 💡 About Me
+
+I am a Backend Developer passionate about building robust, scalable, and maintainable services. I focus on designing clean architectures, efficient APIs, and automated processes that drive business operations. I enjoy working with distributed systems, messaging, and monitoring to ensure everything stays stable in production.
+
+### 🚀 Technologies & Tools
+
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,java,javascript,html,css,flutter,firebase,mysql,git,arduino,vscode" />
+    <img src="https://skillicons.dev/icons?i=python,django,fastapi,linux,postgres,mongodb,rabbitmq,grafana,anaconda" />
   </a>
 </p>
 
----
+*   **APIs & Backend:** FastAPI, Django
+*   **Automation:** Python (RPA with Create)
+*   **Messaging:** RabbitMQ
+*   **Observability:** Grafana
+*   **Databases:** PostgreSQL, MongoDB
+*   **Environment & Tooling:** Linux, Anaconda
 
-### 🌱 Actualmente Aprendiendo
+### 🌱 Currently Improving
 
-- **Backend Moderno:** Profundizando en la creación de APIs robustas con Django y Node.js.
-- **Arquitectura Limpia:** Aplicando patrones de diseño para un código más mantenible.
-- **Desarrollo Frontend:** Perfeccionando interfaces de usuario con Flutter.
-- **Optimización y CI/CD:** Implementando pipelines para despliegues automatizados.
+- 🏗️ **Service Architecture:** Domain-driven design, scalability, and Clean Architecture.
+- 📩 **Messaging & Async:** Distributed workers and task processing with RabbitMQ.
+- 📊 **Observability:** Advanced Grafana dashboards, metrics, and proactive alerting.
+- 🤖 **RPA Automation:** Orchestration and optimization of repetitive processes using Python.
 
----
+### 🔥 What I'm Working On
 
-### 🔥 Mis Proyectos Actuales
-
-- **📱 Apps en Flutter:** Creación de aplicaciones móviles con integración nativa y servicios de Firebase.
-- **🐍 Backend y APIs:** Desarrollo de servicios RESTful con Python, Django y FastAPI.
-- **🌐 Aplicaciones Web:** Construcción de interfaces dinámicas con React.
-- **🔌 Integración Hardware-Software:** Proyectos que combinan la electrónica de Arduino con software a medida.
+- ⚡ **High-Performance APIs:** Developing RESTful services with FastAPI and Django.
+- 📩 **Async Processing:** Integrating RabbitMQ queues for heavy tasks and pipelines.
+- 📊 **Monitoring & Metrics:** Building traceability and performance dashboards in Grafana.
+- 🗄️ **Data & Persistence:** Designing models and optimizing queries in PostgreSQL + MongoDB.
+- 🤖 **RPA Automation:** Creating bots and automated flows to accelerate operations.
 
 ---
 
 <p align="center">
-  <i>“El código no miente.”</i>
+  <i>"Grant me the serenity to accept the code I cannot change, the courage to refactor the code I can, and the wisdom to know the difference."</i>
+</p>
+
+<p align="right">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeptualPG&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </p>
