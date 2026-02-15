@@ -58,7 +58,7 @@ I currently work at an RPA-focused company, contributing to the development and 
 - **Microsoft apps** automation (Excel, Outlook, etc.)
 - **Jira** for task tracking and workflow management
 
-<hr>
+---
 
 
 <p align="center">
