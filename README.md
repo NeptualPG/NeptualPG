@@ -40,6 +40,7 @@ I am a Backend Developer passionate about building robust, scalable, and maintai
 
 ---
 
+
 ## 💼 Professional Experience – RPA Developer (Current)
 
 I currently work at an RPA-focused company, contributing to the development and lifecycle management of automation solutions that optimize business processes. My responsibilities include creating, reviewing, updating, and maintaining RPA bots, with a strong focus on stability, scalability, and long-term maintainability.
@@ -56,6 +57,7 @@ I currently work at an RPA-focused company, contributing to the development and 
 - **Grafana** for monitoring, metrics, and observability
 - **Microsoft apps** automation (Excel, Outlook, etc.)
 - **Jira** for task tracking and workflow management
+
 
 
 <p align="center">
