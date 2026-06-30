@@ -9,9 +9,7 @@ Backend Developer • Python • RPA • Performance • Observability • Autom
 ## 💡 About Me
 
 I'm a Backend Developer specialized in building reliable backend systems and automation platforms.
-
 Most of my work revolves around designing APIs, asynchronous architectures, automation workflows, monitoring, and performance optimization.
-
 I enjoy solving complex backend problems through clean architecture, scalable services, and efficient data processing.
 
 ---
@@ -36,7 +34,7 @@ I enjoy solving complex backend problems through clean architecture, scalable se
 
 ## 💼 Professional Experience
 
-Currently working as an **RPA Developer**, developing and maintaining enterprise automation solutions that process thousands of business operations every day.
+Currently working as an **RPA Developer** at **[Design Systems Inno (DSI)](https://www.linkedin.com/company/dsinno/posts/?feedView=all)**, developing and maintaining enterprise automation solutions that process thousands of business operations every day, with a strong focus on reliability, scalability, and maintainability. :contentReference[oaicite:0]{index=0}
 
 ### Main responsibilities
 
@@ -70,43 +68,12 @@ Currently working as an **RPA Developer**, developing and maintaining enterprise
 
 ## 🚀 Current Featured Projects
 
-### GearShift Backend
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| **⚙️ GearShift Backend** | Enterprise backend built with Django REST Framework for fleet management, focused on scalability and maintainability. | Python • Django • PostgreSQL • Docker |
+| **🌃 SnoopyDopy** | Cyberpunk-themed e-commerce platform featuring a modern UI and lightweight frontend architecture. | HTML • CSS • JavaScript |
+| **🤝 TeamFlow** | Internal development platform designed to improve collaboration, documentation, and software delivery workflows. | Python • Django • Docker |
 
-Enterprise backend built with Django REST Framework for fleet management.
-
-**Tech**
-Python • Django • PostgreSQL • Docker
-
----
-
-### SnoopyDopy
-
-Cyberpunk-themed e-commerce platform focused on modern UI and lightweight frontend architecture.
-
-**Tech**
-
-HTML • CSS • JavaScript
-
----
-
-### TeamFlow
-
-Internal development platform designed to improve collaboration, documentation, and software delivery workflows.
-
-**Tech**
-
-Python • Django • Docker
-
----
-
-## 📈 What I Enjoy Building
-
-- High-performance REST APIs
-- Automation Platforms
-- Distributed Workers
-- Monitoring Dashboards
-- Internal Developer Tools
-- Scalable Backend Architectures
 
 ---
 
