@@ -36,7 +36,7 @@ I enjoy solving complex backend problems through clean architecture, scalable se
 
 ## 💼 Professional Experience
 
-Currently working as an **RPA Developer** at **[Design Systems Inno (DSI)](https://www.linkedin.com/company/dsinno/posts/?feedView=all)**, developing and maintaining enterprise automation solutions that process thousands of business operations every day, with a strong focus on reliability, scalability, and maintainability. :contentReference[oaicite:0]{index=0}
+Currently working as an **RPA Developer** at **[Design Systems Inno (DSI)](https://www.linkedin.com/company/dsinno/posts/?feedView=all)**, developing and maintaining enterprise automation solutions that process thousands of business operations every day, with a strong focus on reliability, scalability, and maintainability.
 
 ### Main responsibilities
 
