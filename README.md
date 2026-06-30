@@ -18,47 +18,20 @@ I enjoy solving complex backend problems through clean architecture, scalable se
 
 ## 🚀 Tech Stack
 
+</p>
 <p align="left">
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=python,django,fastapi,docker,linux,postgres,mysql,mongodb,rabbitmq,grafana,git,github" />
 </a>
 </p>
 
-### Backend
-
-- Python
-- FastAPI
-- Django
-- REST APIs
-
-### Automation
-
-- Python RPA
-- Selenium
-- PyAutoGUI
-- Web Scraping
-- Process Automation
-
-### Infrastructure
-
-- Docker
-- Linux
-- RabbitMQ
-- Grafana
-
-### Databases
-
-- PostgreSQL
-- MySQL
-- MongoDB
-
-### Tools
-
-- Git
-- GitHub
-- Linear
-- Anaconda
-
+| Category | Technologies |
+|----------|--------------|
+| 🐍 **Backend** | Python, Django, FastAPI, REST APIs, Clean Architecture |
+| 🤖 **Automation** | Python RPA, Selenium, PyAutoGUI, Web Scraping, Process Automation |
+| 🏗️ **Infrastructure** | Docker, Docker Compose, Linux, RabbitMQ, Grafana |
+| 🗄️ **Databases** | PostgreSQL, MySQL, MongoDB, SQL Optimization |
+| 🛠️ **Tools** | Git, GitHub, Linear, Jira, Anaconda |
 ---
 
 ## 💼 Professional Experience
