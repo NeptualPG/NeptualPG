@@ -9,7 +9,9 @@ Backend Developer • Python • RPA • Performance • Observability • Autom
 ## 💡 About Me
 
 I'm a Backend Developer specialized in building reliable backend systems and automation platforms.
+
 Most of my work revolves around designing APIs, asynchronous architectures, automation workflows, monitoring, and performance optimization.
+
 I enjoy solving complex backend problems through clean architecture, scalable services, and efficient data processing.
 
 ---
@@ -47,23 +49,7 @@ Currently working as an **RPA Developer** at **[Design Systems Inno (DSI)](https
 - Integrate external platforms and Microsoft services
 - Improve reliability and fault tolerance
 - Build internal tools that simplify development workflows
-
----
-
-## 🏗 Areas of Expertise
-
-- Backend Development
-- REST API Design
-- Distributed Systems
-- Microservices
-- Process Automation
-- RabbitMQ Messaging
-- Performance Optimization
-- Observability
-- SQL Query Optimization
-- Web Automation
-- System Integration
-
+- 
 ---
 
 ## 🚀 Current Featured Projects
