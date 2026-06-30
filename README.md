@@ -56,7 +56,7 @@ I enjoy solving complex backend problems through clean architecture, scalable se
 
 - Git
 - GitHub
-- Jira
+- Linear
 - Anaconda
 
 ---
@@ -95,7 +95,7 @@ Currently working as an **RPA Developer**, developing and maintaining enterprise
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Current Featured Projects
 
 ### GearShift Backend
 
