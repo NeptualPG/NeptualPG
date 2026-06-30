@@ -1,66 +1,142 @@
 <h1 align="center">Hi there, I'm NeptualPG 👋</h1>
 
 <p align="center">
-  <strong>Backend Developer focused on Performance, Observability, and Automation.</strong>
+Backend Developer • Python • RPA • Performance • Observability • Automation
 </p>
 
-### 💡 About Me
+---
 
-I am a Backend Developer passionate about building robust, scalable, and maintainable services. I focus on designing clean architectures, efficient APIs, and automated processes that drive business operations. I enjoy working with distributed systems, messaging, and monitoring to ensure everything stays stable in production.
+## 💡 About Me
 
-### 🚀 Technologies & Tools
+I'm a Backend Developer specialized in building reliable backend systems and automation platforms.
+
+Most of my work revolves around designing APIs, asynchronous architectures, automation workflows, monitoring, and performance optimization.
+
+I enjoy solving complex backend problems through clean architecture, scalable services, and efficient data processing.
+
+---
+
+## 🚀 Tech Stack
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,fastapi,linux,postgres,mysql,mongodb,rabbitmq,grafana,anaconda,git" />
-  </a>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,docker,linux,postgres,mysql,mongodb,rabbitmq,grafana,git,github" />
+</a>
 </p>
 
-*   **APIs & Backend:** FastAPI, Django
-*   **Automation:** Python (RPA with Create)
-*   **Messaging:** RabbitMQ
-*   **Observability:** Grafana
-*   **Databases:** **SQL (PostgreSQL, MySQL)**, MongoDB
-*   **Environment & Tooling:** Linux, Anaconda, Git
+### Backend
 
-### 🌱 Currently Improving
+- Python
+- FastAPI
+- Django
+- REST APIs
 
-- 🏗️ **Service Architecture:** Domain-driven design, scalability, and Clean Architecture.
-- 📩 **Messaging & Async:** Distributed workers and task processing with RabbitMQ.
-- 📊 **Observability:** Advanced Grafana dashboards, metrics, and proactive alerting.
-- 🤖 **RPA Automation:** Orchestration and optimization of repetitive processes using Python.
+### Automation
 
-### 🔥 What I'm Working On
+- Python RPA
+- Selenium
+- PyAutoGUI
+- Web Scraping
+- Process Automation
 
-- ⚡ **High-Performance APIs:** Developing RESTful services with FastAPI and Django.
-- 📩 **Async Processing:** Integrating RabbitMQ queues for heavy tasks and pipelines.
-- 📊 **Monitoring & Metrics:** Building traceability and performance dashboards in Grafana.
-- 🗄️ **Data & Persistence:** Designing models and optimizing complex **SQL queries** in PostgreSQL + MongoDB.
-- 🤖 **RPA Automation:** Creating bots and automated flows to accelerate operations.
+### Infrastructure
 
----
+- Docker
+- Linux
+- RabbitMQ
+- Grafana
 
+### Databases
 
-## 💼 Professional Experience – RPA Developer (Current)
+- PostgreSQL
+- MySQL
+- MongoDB
 
-I currently work at an RPA-focused company, contributing to the development and lifecycle management of automation solutions that optimize business processes. My responsibilities include creating, reviewing, updating, and maintaining RPA bots, with a strong focus on stability, scalability, and long-term maintainability.
+### Tools
 
-### 🔧 What I work with
-
-- **Python** for automation and tooling
-- **Web Scraping** for data extraction and processing
-- **PyAutoGUI** for UI automation
-- **RabbitMQ** for messaging and task orchestration
-- **REST APIs** for integrations and service communication
-- **Microservices**-based architectures
-- **State control** and execution flow management
-- **Grafana** for monitoring, metrics, and observability
-- **Microsoft apps** automation (Excel, Outlook, etc.)
-- **Jira** for task tracking and workflow management
+- Git
+- GitHub
+- Jira
+- Anaconda
 
 ---
 
+## 💼 Professional Experience
+
+Currently working as an **RPA Developer**, developing and maintaining enterprise automation solutions that process thousands of business operations every day.
+
+### Main responsibilities
+
+- Develop backend automation services
+- Design REST APIs
+- Build distributed workflows using RabbitMQ
+- Maintain production RPA bots
+- Monitor production systems with Grafana
+- Debug and optimize performance bottlenecks
+- Integrate external platforms and Microsoft services
+- Improve reliability and fault tolerance
+- Build internal tools that simplify development workflows
+
+---
+
+## 🏗 Areas of Expertise
+
+- Backend Development
+- REST API Design
+- Distributed Systems
+- Microservices
+- Process Automation
+- RabbitMQ Messaging
+- Performance Optimization
+- Observability
+- SQL Query Optimization
+- Web Automation
+- System Integration
+
+---
+
+## 🚀 Featured Projects
+
+### GearShift Backend
+
+Enterprise backend built with Django REST Framework for fleet management.
+
+**Tech**
+Python • Django • PostgreSQL • Docker
+
+---
+
+### SnoopyDopy
+
+Cyberpunk-themed e-commerce platform focused on modern UI and lightweight frontend architecture.
+
+**Tech**
+
+HTML • CSS • JavaScript
+
+---
+
+### TeamFlow
+
+Internal development platform designed to improve collaboration, documentation, and software delivery workflows.
+
+**Tech**
+
+Python • Django • Docker
+
+---
+
+## 📈 What I Enjoy Building
+
+- High-performance REST APIs
+- Automation Platforms
+- Distributed Workers
+- Monitoring Dashboards
+- Internal Developer Tools
+- Scalable Backend Architectures
+
+---
 
 <p align="center">
-  <i>"Grant me the serenity to accept the code I cannot change, the courage to refactor the code I can, and the wisdom to know the difference."</i>
+<i>"Grant me the serenity to accept the code I cannot change, the courage to refactor the code I can, and the wisdom to know the difference."</i>
 </p>
